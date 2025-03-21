@@ -52,8 +52,8 @@ mkdir /backup/glpi
 Download and install glpitools
 ```bash
 cd /opt/  
-git clone https://gitlab.telismc.local/maxime.durr/glpitools.git  
-cd ./glpitools
+git clone https://github.com/goronu/GLPI-Tools
+cd ./GLPI-Tools
 ```
 
 ### Configure glpitools
