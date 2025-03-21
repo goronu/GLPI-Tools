@@ -52,8 +52,8 @@ mkdir /backup/glpi
 Download and install glpitools
 ```bash
 cd /opt/  
-git clone https://github.com/goronu/GLPI-Tools
-cd ./GLPI-Tools
+git clone https://github.com/goronu/glpitools
+cd ./glpitools
 ```
 
 ### Configure glpitools
